@@ -1,6 +1,6 @@
-# url-shortener-dio
+# encurtador de url
 
-Projeto criado junto da DIO para construção de um Encurtador de URL.
+Projeto do desafio DIO.
 
 ## Rodando o projeto
 
